@@ -1,0 +1,9 @@
+﻿  Number.cpp
+C:\Users\rafae\source\repos\POO5\POO5\Number.cpp(11,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rafae\source\repos\POO5\POO5\Number.cpp(81,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  POO5.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  POO5.vcxproj -> C:\Users\rafae\source\repos\POO5\Release\POO5.exe

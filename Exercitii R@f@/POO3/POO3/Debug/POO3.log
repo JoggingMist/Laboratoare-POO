@@ -1,0 +1,3 @@
+﻿  Canvas.cpp
+C:\Users\rafae\source\repos\POO3\POO3\Canvas.cpp(94,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  POO3.vcxproj -> C:\Users\rafae\source\repos\POO3\Debug\POO3.exe

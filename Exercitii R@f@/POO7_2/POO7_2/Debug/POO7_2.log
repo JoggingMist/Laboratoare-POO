@@ -1,0 +1,4 @@
+﻿  Number.cpp
+C:\Users\rafae\source\repos\POO7_2\POO7_2\Number.cpp(218,18): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rafae\source\repos\POO7_2\POO7_2\Number.cpp(220): warning C4715: 'Number::operator[]': not all control paths return a value
+  POO7_2.vcxproj -> C:\Users\rafae\source\repos\POO7_2\Debug\POO7_2.exe

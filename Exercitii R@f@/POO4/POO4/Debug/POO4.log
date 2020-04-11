@@ -1,0 +1,3 @@
+﻿  Sort.cpp
+C:\Users\rafae\source\repos\POO4\POO4\Sort.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  POO4.vcxproj -> C:\Users\rafae\source\repos\POO4\Debug\POO4.exe
