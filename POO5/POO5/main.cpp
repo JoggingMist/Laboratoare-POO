@@ -6,7 +6,7 @@ int main()
 {
 	Number caine("10111", 2);
 	cout << endl;
-	Number caine2("678706", 10);
+	Number caine2("7", 10);
 	int bazaMaiMare;
 
 	if (caine.GetBase() > caine2.GetBase())
@@ -19,6 +19,6 @@ int main()
 	}
 
 		caine = caine + caine2;
-		caine2.SwitchBase(16);
+		//caine2.SwitchBase(16);
 		caine2.Print();
 }

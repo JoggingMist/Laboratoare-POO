@@ -1,6 +1,0 @@
-﻿  Number.cpp
-C:\Users\rafae\source\repos\POO5\POO5\Number.cpp(216,18): warning C4018: '<=': signed/unsigned mismatch
-  POO5.cpp
-  Generating Code...
-C:\Users\rafae\source\repos\POO5\POO5\Number.cpp(218): warning C4715: 'Number::operator[]': not all control paths return a value
-  POO5.vcxproj -> C:\Users\rafae\source\repos\POO5\Debug\POO5.exe

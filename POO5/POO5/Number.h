@@ -1,4 +1,5 @@
 #include <iostream>
+#pragma warning(disable:4996)
 
 class Number
 {
@@ -10,7 +11,7 @@ public:
     Number(const char* value, int base); // where base is between 2 and 16
     ~Number();
 
-    
+    Number operator+(Number&);
 
     void SwitchBase(int newBase);
     void Print();

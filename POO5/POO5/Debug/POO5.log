@@ -1,4 +1,6 @@
-﻿  Number.cpp
-F:\Facultate Vali\Laboratoare-POO\POO5\POO5\Number.cpp(25,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-F:\Facultate Vali\Laboratoare-POO\POO5\POO5\Number.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+﻿  main.cpp
+  Number.cpp
+F:\Facultate Vali\Laboratoare-POO\POO5\POO5\Number.cpp(32,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Facultate Vali\Laboratoare-POO\POO5\POO5\Number.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   POO5.vcxproj -> F:\Facultate Vali\Laboratoare-POO\POO5\Debug\POO5.exe

@@ -1,7 +1,12 @@
 #include <iostream>
 #include "Number.h"
 #include <cmath>
+#include <string>
+
 using namespace std;
+
+
+
 
 Number::Number(const char* value, int base)
 {
@@ -105,6 +110,37 @@ Number::~Number()
 {
 	delete[] numar;
 }
+
+Number Number::operator+(Number& n)
+{
+	int b1 = baza;
+	int val1 = decimal;
+	int b2 = n.baza;
+	int val2 = n.decimal;
+
+	int newBase = (b1 > b2) ? b1 : b2;
+
+	char* rezultat;
+
+	//alocare memorie rezutat
+	int tmp = val1 + val2;
+	int k = 0;
+	while (tmp)
+	{
+		k++;
+		tmp /= 10;
+	}
+	rezultat = new char[k];
+
+	_itoa(val1 + val2, rezultat, 10);
+
+	Number x(rezultat, 10);
+
+	x.SwitchBase(newBase);
+
+	return x;
+}
+
 
 int Number::GetDigitsCount()
 {
