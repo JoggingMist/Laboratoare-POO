@@ -1,0 +1,7 @@
+﻿  Circuit.cpp
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 6 OOP\Circuit.cpp(52,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 6 OOP\Circuit.cpp(62,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 6 OOP\Circuit.cpp(71,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Lab 6 OOP.vcxproj -> C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 6 OOP\Debug\Lab 6 OOP.exe
