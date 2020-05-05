@@ -1,7 +1,2 @@
-﻿  Number.cpp
-C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\POO5\POO5\Number.cpp(14,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\POO5\POO5\Number.cpp(32,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\POO5\POO5\Number.cpp(147,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
+﻿  main.cpp
   POO5.vcxproj -> C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\POO5\x64\Debug\POO5.exe

@@ -1,0 +1,4 @@
+﻿  Lab 8 STL.cpp
+C:\Users\Cosmin\source\repos\Lab 8 STL\Lab 8 STL.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cosmin\source\repos\Lab 8 STL\Lab 8 STL.cpp(46,18): warning C4018: '<': signed/unsigned mismatch
+  Lab 8 STL.vcxproj -> C:\Users\Cosmin\source\repos\Lab 8 STL\Debug\Lab 8 STL.exe

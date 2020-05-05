@@ -17,6 +17,7 @@ Number::Number(const char* value, int base)
 		s[i] = value[i];
 	}
 	s[length] = '\0';
+	cout << s;
 }
 
 Number::~Number()
@@ -29,7 +30,7 @@ Number::~Number()
 //
 //}
 
-int Number::GetDigitsCount() 
-{
-	return 1;
-}
+//int Number::GetDigitsCount() 
+//{
+//	return 1;
+//}

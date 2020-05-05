@@ -1,2 +1,3 @@
-﻿  POO7.cpp
-  POO7.vcxproj -> C:\Users\rafae\source\repos\POO7\Debug\POO7.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (POO7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  POO7.cpp
+  POO7.vcxproj -> C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii R@f@\POO7\Debug\POO7_1.exe

@@ -20,7 +20,7 @@ void ex1()
 
 int main()
 {
-	MyVector <Number> v;
+	/*MyVector <Number> v;
 	Number n1("FF", 16);
 	Number n2("101", 2);
 	Number n3;
@@ -30,6 +30,10 @@ int main()
 	v.Push(n3);
 	v.Push(n4);
 	v.Sort();
+
+	for (int i = 0; i < v.Count(); i++)
+		cout << v.Get(i);*/
+	ex1();
 
 	return 0;
 }
