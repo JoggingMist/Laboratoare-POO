@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(13,5): error C2672: 'begin': no matching overloaded function found
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1903): message : see declaration of 'std::begin'
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): message : With the following template arguments:
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): message : '_Container=Map<int,const char *>'
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Map<int,const char *>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\initializer_list(57): message : see declaration of 'std::begin'
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(13,5): error C2672: 'end': no matching overloaded function found
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(1913): message : see declaration of 'std::end'
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): message : With the following template arguments:
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): message : '_Container=Map<int,const char *>'
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'Map<int,const char *>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\initializer_list(63): message : see declaration of 'std::end'
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): error C3536: '<begin>$L0': cannot be used before it is initialized
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(12,5): error C3536: '<end>$L0': cannot be used before it is initialized
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(13,5): error C2100: illegal indirection
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 9 OOP\main.cpp(13,5): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
