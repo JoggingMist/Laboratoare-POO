@@ -67,10 +67,10 @@ int main()
 	}
 
 	map<string, int>::iterator it;
-	/*for (it = Mapa.begin(); it != Mapa.end(); it++)
+	for (it = Mapa.begin(); it != Mapa.end(); it++)
 	{
 		cout << it->first << " " << it->second << endl;
-	}*/
+	}
 
 	priority_queue<Key_Value, vector<Key_Value>, Comparare> coada(Mapa.begin(), Mapa.end());
 	while (!coada.empty())

@@ -1,2 +1,6 @@
-﻿  POO7_2.cpp
-  POO7_2.vcxproj -> C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii R@f@\POO7_2\Debug\POO7_2.exe
+﻿  Number.cpp
+F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\Exercitii R@f@\POO7_2\POO7_2\Number.cpp(218,18): warning C4018: '<=': signed/unsigned mismatch
+  POO7_2.cpp
+  Generating Code...
+F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\Exercitii R@f@\POO7_2\POO7_2\Number.cpp(220): warning C4715: 'Number::operator[]': not all control paths return a value
+  POO7_2.vcxproj -> F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\Exercitii R@f@\POO7_2\Debug\POO7_2.exe
