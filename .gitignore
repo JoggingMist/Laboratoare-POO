@@ -5,6 +5,12 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
+# I dont fucking know, incerc sa mai ignor niste cacaturi ca se fute mereu cand se deschide un proiect si trebuie commit dupa
+git rm --cached project1.suo
+git commit -m "Delete suo file from repository"
+
+*Db.*
+
 # Dump file
 *.stackdump
 
