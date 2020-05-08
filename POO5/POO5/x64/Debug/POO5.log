@@ -1,2 +1,6 @@
-﻿  main.cpp
-  POO5.vcxproj -> C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\POO5\x64\Debug\POO5.exe
+﻿  Number.cpp
+F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\POO5\POO5\Number.cpp(14,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\POO5\POO5\Number.cpp(32,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\POO5\POO5\Number.cpp(136,35): error C2660: '_itoa_s': function does not take 3 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(622,26): message : see declaration of '_itoa_s'
+F:\Facultate Vali\Laboratoare-POO\Laboratoare-POO\POO5\POO5\Number.cpp(148,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
