@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 10 OOP\Lab 10 OOP\main.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 10 OOP\Lab 10 OOP\main.cpp(32,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 10 OOP\Lab 10 OOP\main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 10 OOP\Lab 10 OOP\main.cpp(152,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab 10 OOP.vcxproj -> C:\Users\Cosmin\Documents\GitHub\Laboratoare-POO\Exercitii jmekere\Lab 10 OOP\Lab 10 OOP\Debug\Lab 10 OOP.exe
